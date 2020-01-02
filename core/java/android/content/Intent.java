@@ -5042,7 +5042,6 @@ public class Intent implements Parcelable, Cloneable {
      */
     public static final String ACTION_SHOW_FOREGROUND_SERVICE_MANAGER =
             "android.intent.action.SHOW_FOREGROUND_SERVICE_MANAGER";
-
     /**
      * Broadcast action: notify the system that the user has performed a gesture on the screen
      * to launch the camera. Broadcast should be protected to receivers holding the
