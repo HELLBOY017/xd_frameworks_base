@@ -5728,6 +5728,13 @@ public final class Settings {
          * @hide
          */
         public static final String FORCE_FULLSCREEN_CUTOUT_APPS = "force_full_screen_cutout_apps";
+        
+        /**
+         * Whether to remove navigation bar height while keeping the gesture pill.
+         * Default 0.
+         * @hide
+         */
+        public static final String IMMERSIVE_GESTURES = "immersive_gestures";
 
         /**
          * Keys we no longer back up under the current schema, but want to continue to

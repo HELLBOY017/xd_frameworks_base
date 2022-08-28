@@ -95,5 +95,6 @@ public class SystemSettings {
         Settings.System.KEYGAURD_MEDIA_ART,
         Settings.System.NAVIGATION_BAR_INVERSE,
         Settings.System.ENABLE_RIPPLE_EFFECT,
+        Settings.System.IMMERSIVE_GESTURES,
     };
 }
